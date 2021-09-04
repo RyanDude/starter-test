@@ -1,0 +1,6 @@
+sample.service:
+  enabled: true
+  prefix: JG
+  suffix: test
+server:
+  port: 8081
